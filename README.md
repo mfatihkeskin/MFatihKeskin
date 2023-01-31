@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Sofware Engineer
 - 🌱 I’m currently learning a lot of things
 - 📫 Personal website: https://sites.google.com/view/fatihkeskin/homepage
-- 💬 How to reach me: mfatihkeskinnn@gmail.com or mfatihkeskin@protonmail.com
+- 💬 You can reach me at mfatihkeskinnn@gmail.com or mfatihkeskin@protonmail.com
 
 ---
 
