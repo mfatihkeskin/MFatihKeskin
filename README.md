@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Embedded Sofware Engineer
+- 🔭 I’m currently working as Sofware Engineer
 - 🌱 I’m currently learning a lot of things
 - 📫 Personal website: https://sites.google.com/view/mfatihkeskin/ana-sayfa-home
 - 💬 How to reach me: mfatihkeskinnn@gmail.com or mfatihkeskin@protonmail.com
