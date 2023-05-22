@@ -1,14 +1,14 @@
 # Hi there 👋
 
 
-# I am M. Fatih KESKİN
+## I am M. Fatih KESKIN
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as Sofware Engineer
+- 🔭 I’m currently working as Sofware Engineer at <a href="https://github.com/AudioElektronik" target="_self">
+Audio Elektronik</a>
 - 🌱 I’m currently learning a lot of things
-- 📫 Personal website: https://sites.google.com/view/fatihkeskin/homepage
-- 💬 You can reach me at mfatihkeskinnn@gmail.com or mfatihkeskin@protonmail.com
+- 📫 <a href="https://sites.google.com/view/fatihkeskin/homepage" target="_self">
+Personal website</a>
+- 💬 You can reach me at fatihkeskin@audio.com.tr
 
 ---
 
@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/HardwareDesign-AltiumDesigner-informational?style=flat&logo=gnu-AltiumDesigner&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Simulation-Proteus-informational?style=flat&logo=gnu-Proteus&logoColor=white&color=2bbc8a)
 
+---
+
+
+
+
+
+
 
 
 <!--
@@ -50,4 +57,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mfatihkeskinnn@gmail.com  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 👋 Hi, I’m @mfatihkeskinn
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mfatihkeskinn/mfatihkeskinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
