@@ -30,11 +30,10 @@ Personal website</a>
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=gnu-C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=gnu-C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=gnu-Matlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HardwareDesign-AltiumDesigner-informational?style=flat&logo=gnu-AltiumDesigner&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Simulation-Proteus-informational?style=flat&logo=gnu-Proteus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=gnu-MATLAB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=gnu-HTML&logoColor=white&color=2bbc8a)
 
 ---
 
